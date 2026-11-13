@@ -1,0 +1,14 @@
+# RStudio / R session
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.bak
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Temporales
+*.tmp
+~$*

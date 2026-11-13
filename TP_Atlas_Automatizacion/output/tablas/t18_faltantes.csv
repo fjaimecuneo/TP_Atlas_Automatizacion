@@ -1,0 +1,15 @@
+base,variable,faltantes
+Ocupaciones ARG (923),mean_exposure,0
+Ocupaciones ARG (923),substitution_share,0
+Ocupaciones ARG (923),augmentation_share,0
+Ocupaciones ARG (923),task_count,0
+Ocupaciones ARG (923),sub_only_share,0
+Ocupaciones ARG (923),aug_only_share,0
+Ocupaciones ARG (923),both_share,0
+Países (124),mean_task_exposure,0
+Países (124),share_exposed,0
+Países (124),share_high_exposure,0
+Países (124),sub_only_share,0
+Países (124),aug_only_share,0
+Países (124),both_share,0
+Países (124),gdp_per_capita,0

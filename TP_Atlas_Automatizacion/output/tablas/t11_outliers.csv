@@ -1,0 +1,8 @@
+"variable","nivel","lim_inf","lim_sup","outliers"
+"mean_task_exposure","país (cluster)",-0.078,2.42,0
+"share_exposed","país (cluster)",-0.105,0.949,0
+"share_high_exposure","país (cluster)",-0.163,0.309,0
+"sub_only_share","país (cluster)",-0.055,0.359,0
+"aug_only_share","país (cluster)",-0.036,0.108,2
+"both_share","país (cluster)",-0.042,0.495,0
+"mean_exposure","ocupación ARG (Chi²)",0.061,2.781,5

@@ -1,0 +1,5 @@
+"income_level","mean_task_exposure","share_exposed","substitution_share","augmentation_share","n"
+"Low income",0.513,0.152,0.067,0.01,19
+"Lower middle income",0.943,0.333,0.119,0.03,35
+"Upper middle income",1.287,0.479,0.174,0.049,27
+"High income",1.525,0.566,0.21,0.06,41

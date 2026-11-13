@@ -1,0 +1,3 @@
+muestra,n,media,sd,mediana,min,max,p25,p75,delta_media_pct
+Antes,923,1.432,0.495,1.407,0.037,3,1.081,1.761,NA
+Despues,918,1.428,0.485,1.4,0.125,2.731,1.08,1.759,-0.34
